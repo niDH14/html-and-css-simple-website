@@ -1,1 +1,3 @@
 # html-and-css-simple-website
+# basic-webpage-using-html-css
+This is a simple HTML and CSS-based website that provides links to various online learning platforms like Coursera, Udemy, edX, and more. It features a clean navigation bar for easy access to different pages, visually appealing sections showcasing online courses, and a footer with contact details. Users can explore learning resources by clicking on the provided links. To use this project, clone the repository, open index.html in a browser, and navigate through the content. Additionally, the website can be deployed using GitHub Pages for easy online access. Feel free to modify, enhance, or customize the design and content as needed. This project is licensed under MIT.
